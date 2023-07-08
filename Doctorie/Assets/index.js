@@ -1,5 +1,5 @@
 window.onscroll = function() {myFunction()};
-
+//For the header element to be sticky or fixed
 var header = document.querySelector("header");
 var sticky = header.offsetTop;
 
