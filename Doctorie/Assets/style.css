@@ -92,7 +92,7 @@ header{
 .header .nav .navbar ul li a:hover {
     color: green;
     letter-spacing: 2px;
-    border-bottom: green solid 6px;
+    
 }
 .header .nav .navbar .navbar1 .h1 {
     margin-left: 80px;
