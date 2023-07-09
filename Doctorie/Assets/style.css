@@ -105,7 +105,7 @@ header{
 }
 .header .nav .navbar .navbar1 .h1:hover {
     cursor: pointer;
-    padding-left: 10px;
+    transform: scale(1);
 
 }
 .header .nav .navbar .button button{
